@@ -69,8 +69,6 @@ Every project I build is designed from scratch and **published end-to-end on [Da
 
 ## 🛠️ Languages and Tools
 
-## 🛠️ Languages and Tools
-
 <p align="left">
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
