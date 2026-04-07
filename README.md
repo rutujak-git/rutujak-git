@@ -133,9 +133,3 @@ Every project I build is designed from scratch and **published end-to-end on my 
 | B.E. — Electrical, Electronics & Communications Engineering | Smt. Kashibai Navale College of Engineering, Pune University | 2013 – 2017 |
 
 ---
-
-<div align="center">
-
-📺 &nbsp;Follow my data engineering tutorials on **[DataToCrunch](https://www.youtube.com/@DataToCrunch)**&nbsp; · &nbsp;⭐️ Star a project if you find it useful!
-
-</div>
