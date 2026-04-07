@@ -48,7 +48,7 @@ Today, I independently design and implement **end-to-end data pipelines** using 
 - **BI & Visualization** — Power BI, Tableau, Databricks SQL dashboards
 - **DevOps** — GitHub, Azure DevOps, CI/CD pipelines
 
-Every project I build is designed from scratch and **published end-to-end on [DataToCrunch](https://www.youtube.com/@DataToCrunch)** to help data enthusiasts learn real-world engineering practices.
+Every project I build is designed from scratch and **published end-to-end on my channel** to help data enthusiasts learn real-world engineering practices.
 
 ---
 
@@ -64,7 +64,7 @@ Every project I build is designed from scratch and **published end-to-end on [Da
 | 4 | [Banking DLT Pipeline — PySpark](https://github.com/rutujak-git/databricks-lakeflow-banking-dlt-pyspark) | Automated banking ETL with Auto Loader, Delta Live Tables, data quality Expectations & SCD Type 1 & 2 | Databricks Lakeflow Declarative Pipeline · Auto Loader · Python · Jobs · Dashboard | [▶ Watch](https://youtu.be/8_Tr2vbTyw4?si=JHNsRBqTP9V6xZqC) |
 | 5 | [Banking DLT Pipeline — SQL](https://github.com/rutujak-git/databricks-lakeflow-banking-dlt-sql) | SQL-based Delta Live Tables pipeline with automated ingestion, quality enforcement & orchestration | Databricks Lakeflow Declarative Pipeline · Auto Loader · SQL · Jobs · Dashboard | [▶ Watch](https://youtu.be/6IlNbM_V2V4?si=AL5LfEpxojDx1wwL) |
 | 6 | [E-Commerce Incremental Pipeline](https://github.com/rutujak-git/databricks-lakehouse-ecommerce-incremental-pipeline) | Incremental processing with SCD Type 2, Watermark logic, Lakehouse Federation & Delta MERGE operations | Databricks · Lakehouse Federation · Python | [▶ Watch](https://youtu.be/by-pDbTrnsw?si=rUQT7Xfv5JIE3cO0) |
-
+| 7 | [AdvantureWorks Azure ETL Pipeline](https://github.com/rutujak-git/AdventureWorks-Azure-ETL-Project.git) | Extract on-prem SQL Server data using Azure Data Factory, transform with Databricks, model in Synapse, and create dashboards in Power BI | SSMS · Databricks · Data Factory · Synapse ·Power BI| [▶ Watch](https://youtu.be/XYQU5ZMuMuE?si=cnu81JOI8gi_puK_) |
 ---
 
 ## 🛠️ Languages and Tools
