@@ -19,6 +19,7 @@
 
 <img align="right" alt="Girl Working on Data" width="360" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG53djZqOTRuYTJqNGI4MWx4dnkxeW9vdGRqMjd5dGdob3BzcmZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXW4e87gIpK2JfgorE/giphy.gif"/>
 
+
 - 🔧 &nbsp;**Data Engineer & Analytics Practitioner** — cloud-native pipelines & Lakehouse architecture
 - 🏢 &nbsp;**3.5+ years** of enterprise experience at Accenture (SAP IS-U & SAP CRM)
 - 🎓 &nbsp;**PG Diploma** in Business Insights & Analytics — Humber College, Canada
