@@ -34,9 +34,9 @@
 
 ## 🧠 About Me
 
-I'm a **Data Engineer and Analytics Practitioner / Educator** based in Toronto, building production-grade cloud data pipelines and educating the data community of 7.9K+ members through my YouTube channel **[DataToCrunch](https://www.youtube.com/@DataToCrunch)**.
+I'm a **Data Engineer and Analytics Practitioner / Educator** based in Toronto, building production-grade cloud data pipelines and educating the data community of 8K+ members through my YouTube channel **[DataToCrunch](https://www.youtube.com/@DataToCrunch)**.
 
-My foundation comes from **3.5+ years at Accenture**, where I worked as an Application Development Associate & Application Developement Analyst on enterprise-scale **SAP IS-U and SAP CRM** projects. I contributed across the full SDLC — from system analysis, enhancement development, and debugging, to testing, deployment support, and production incident resolution. Collaborating with global stakeholders on high-priority deliverables gave me a strong understanding of how data flows and behaves at enterprise scale.
+My foundation comes from **3.5+ years at Accenture**, where I worked as an Application Development Associate & Application Development Analyst on enterprise-scale **SAP IS-U and SAP CRM** projects. I contributed across the full SDLC — from system analysis, enhancement development, and debugging, to testing, deployment support, and production incident resolution. Collaborating with global stakeholders on high-priority deliverables gave me a strong understanding of how data flows and behaves at enterprise scale.
 
 Afterwards I completed my 2 years **postgraduate program in Business Insights & Analytics at Humber College** where I learned Python, SQL, Machine Learning, Predictive Analysis, Power BI, and Tableau. I applied my skills during a **Co-op at the Ontario Public Services | Solicitor General**, where I built advanced Power BI dashboards — implementing DAX measures, time intelligence, row-level security (RLS), and full database integration.
 
