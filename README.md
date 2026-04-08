@@ -42,7 +42,7 @@ Afterwards I completed my 2 years **postgraduate program in Business Insights & 
 
 Today, I independently design and implement **end-to-end data pipelines** using the modern cloud data stack:
 
-- **Azure** — Azure Data Factory (parameterized, event-driven & incremental pipelines), Azure SQL Database, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Databricks Lakeflow Connect, Azure DevOps, Logic Apps
+- **Azure** — Azure Data Factory (parameterized, event-driven & incremental pipelines), Azure SQL Database, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure DevOps, Azure Logic Apps
 - **Databricks** — PySpark, Spark SQL, Delta Live Tables (DLT), Medallion Architecture (Bronze/Silver/Gold), Auto Loader, Lakeflow Connect, SCD Type 1 & 2, CDC, Watermarking, Unity Catalog, Lakehouse Federation, Jobs & orchestration
 - **Snowflake** — Snowpipe, COPY INTO, Streams & Tasks, semi-structured data (JSON, XML, VARIANT), star/snowflake schemas, fact/dimension tables, clustering keys, materialized views, Time Travel, zero-copy cloning
 - **Data Modeling & Governance** — Star & Snowflake Schema, Fact & Dimension tables, Unity Catalog, Lakehouse Federation, cross-platform queries (Snowflake · Azure Synapse · Azure SQL), Row-Level Security
