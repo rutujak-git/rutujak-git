@@ -123,7 +123,7 @@ Every project I build is designed from scratch and **published end-to-end on my 
 | 🎖️ Rutuja Bhagatsing Kadam : Databricks Credentials wallet | Databricks | [View](https://credentials.databricks.com/profile/rutujabhagatsingkadam635706/wallet) |
 | 🎖️ Rutuja Bhagatsing Kadam : Microsoft Credentials Wallet | Databricks | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/) |
 | 🎖️ Azure Databricks Data Engineer Associate(Beta) | Microsoft | [Result Awaiting] |
-| 🎖️ Databricks Certified Data Analyst Associate | Databricks | [Scheduled] |
+| 🎖️ Databricks Certified Data Analyst Associate | Databricks | [View](https://credentials.databricks.com/4daddc63-19e6-425f-87c2-d5d1c1c3aaf5#acc.PEkXwneQ) |
 ---
 
 ## 🎓 Education
