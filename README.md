@@ -23,7 +23,7 @@
 - 🔧 &nbsp;**Data Engineer & Analytics Practitioner** — cloud-native pipelines & Lakehouse architecture
 - 🏢 &nbsp;**3.5+ years** of enterprise experience at Accenture (SAP IS-U & SAP CRM)
 - 🎓 &nbsp;**PG Diploma** in Business Insights & Analytics — Humber College, Canada
-- 🏛️ &nbsp;**Co-op Data Analyst** — Ontario Public Service (Power BI, RLS, DAX)
+- 🏛️ &nbsp;**Co-op Data Analyst** — Ontario Public Service 
 - 📺 &nbsp;YouTube &nbsp;[youtube.com/@DataToCrunch](https://www.youtube.com/@DataToCrunch)
 - 💬 &nbsp;LinkedIn &nbsp;[linkedin.com/in/rutujabkadam](https://www.linkedin.com/in/rutujabkadam)
 - 📍 &nbsp;Toronto, Ontario, Canada
