@@ -120,10 +120,13 @@ Every project I build is designed from scratch and **published end-to-end on my 
 | 🎖️ Microsoft Certified: Power BI Data Analyst Associate (PL-300) | Microsoft | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/credentials/ecefef51b290ca44?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
 | 🎖️ Microsoft Certified: Azure Data Fundamentals (DP-900) | Microsoft | [View](https://www.credly.com/badges/7927ea59-73c7-4aa5-a05a-ce631ee8da50/linked_in_profile) |
 | 🎖️ Databricks Certified Data Engineer Associate | Databricks | [View](https://credentials.databricks.com/5f6e3c08-5e99-4fb8-b6a2-587e73f994d2#acc.Oqwhm3Ak) |
-| 🎖️ Rutuja Bhagatsing Kadam : Databricks Credentials wallet | Databricks | [View](https://credentials.databricks.com/profile/rutujabhagatsingkadam635706/wallet) |
+| 🎖️ Rutuja Bhagatsing Kadam : Databricks & Snowflake Credentials wallet | Databricks | [View](https://credentials.databricks.com/profile/rutujabhagatsingkadam635706/wallet) |
 | 🎖️ Rutuja Bhagatsing Kadam : Microsoft Credentials Wallet | Databricks | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/) |
 | 🎖️ Azure Databricks Data Engineer Associate(Beta) | Microsoft | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/credentials/e8f575afc93bbb19?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
 | 🎖️ Databricks Certified Data Analyst Associate | Databricks | [View](https://credentials.databricks.com/4daddc63-19e6-425f-87c2-d5d1c1c3aaf5#acc.PEkXwneQ) |
+| 🎖️ SnowPro Associate: Platform Certification | Snowflake | [View](https://achieve.snowflake.com/1aec473e-cd4f-4472-b70b-3c004000307a#acc.A0NtC7jr) |
+| 🎖️ Microsoft Certified: Fabric Data Engineer Associate | Microsoft | [Scheduled] |
+| 🎖️ Microsoft Certified: Fabric Analytics Engineer Associate | Microsoft | [Scheduled] |
 ---
 
 ## 🎓 Education
