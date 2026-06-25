@@ -111,7 +111,7 @@ Every project I build is designed from scratch and **published end-to-end on my 
   </a>
 </p>
 
-**Core expertise:** Azure Data Factory · ADLS Gen2 · Azure Synapse Analytics · Databricks Lakeflow Connect · Delta Live Tables · Medallion Architecture · PySpark · Spark SQL · Delta Lake · Auto Loader · Unity Catalog · Lakehouse Federation · Automated Lakeflow Declarative Pipeline · SCD Type 1 & 2 · CDC · Watermarking · Snowpipe · Star/Snowflake Schema · Fact & Dimension Tables · Power BI · Tableau · GitHub · Azure DevOps · CI/CD
+**Core expertise:** Azure Data Factory · ADLS Gen2 · Azure Synapse Analytics · Databricks Lakeflow Connect · Delta Live Tables · Medallion Architecture · PySpark · Spark SQL · Delta Lake · Auto Loader · Unity Catalog · Lakehouse Federation · Automated Lakeflow Declarative Pipeline · SCD Type 1 & 2 · CDC · Watermarking  · Snowflake · Snowpipe · Star/Snowflake Schema · Fact & Dimension Tables · Power BI · Tableau · GitHub · Azure DevOps · CI/CD
 
 ---
 
@@ -136,6 +136,6 @@ Every project I build is designed from scratch and **published end-to-end on my 
 | Degree | Institution | Year |
 |---|---|---|
 | PG Diploma — Business Insights & Analytics | Humber College, Canada | 2021 – 2023 |
-| B.E. — Electrical, Electronics & Communications Engineering | Smt. Kashibai Navale College of Engineering, Pune University | 2013 – 2017 |
+| B.E. — Electronics & Telecommunication Engineering | Smt. Kashibai Navale College of Engineering, Pune University | 2013 – 2017 |
 
 ---
