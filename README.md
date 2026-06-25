@@ -67,6 +67,7 @@ Every project I build is designed from scratch and **published end-to-end on my 
 | 6 | [E-Commerce Incremental Pipeline](https://github.com/rutujak-git/databricks-lakehouse-ecommerce-incremental-pipeline) | Incremental processing with SCD Type 2, Watermark logic, Lakehouse Federation & Delta MERGE operations | Databricks · Lakehouse Federation · Python | [▶ Watch](https://youtu.be/by-pDbTrnsw?si=rUQT7Xfv5JIE3cO0) |
 | 7 | [AdvantureWorks Azure ETL Pipeline](https://github.com/rutujak-git/AdventureWorks-Azure-ETL-Project.git) | Extract on-prem SQL Server data using Azure Data Factory, transform with Databricks, model in Synapse, and create dashboards in Power BI | SSMS · Databricks · Data Factory · Synapse ·Power BI| [▶ Watch](https://youtu.be/XYQU5ZMuMuE?si=cnu81JOI8gi_puK_) |
 | 8 | [FlowBridge Snowflake Data Pipeline](https://github.com/rutujak-git/datatocrunch_snowflake_supply_chain_project.git) | Build a complete production-ready end-to-end data pipeline on Snowflake | Snowflake · Azure · Streamlit · Snowpipe| [▶ Watch](https://youtu.be/APbFU3mdkLw?si=hj9RnzCGKnyIRZCs) |
+
 ---
 
 ## 🛠️ Languages and Tools
