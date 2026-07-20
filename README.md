@@ -2,7 +2,8 @@
 
 # Hi 👋, I'm Rutuja Kadam
 
-### Data Engineer & Data Analytics Practitioner | Azure Services · Databricks · Snowflake | Toronto, Canada
+### Data Engineer & Data Analytics Practitioner | Azure Services · Databricks · Snowflake · Microsoft Fabric | Toronto, Canada
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rutujabkadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutujabkadam)
 [![YouTube](https://img.shields.io/badge/YouTube-DataToCrunch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DataToCrunch)
@@ -11,7 +12,7 @@
 
 ---
 
-**I build end-to-end cloud data pipelines that transform raw, complex data into structured, reliable, analytics-ready datasets. My work spans Azure Services, Databricks, Snowflake, & BI tools — from ingestion and transformation to governance, orchestration, and BI delivery. I am passionate about clean data architecture and sharing that knowledge through my YouTube channel, DataToCrunch.**
+**I build end-to-end data pipelines across Microsoft Fabric, Azure, Databricks, and Snowflake — from raw ingestion through transformation, governance, and orchestration to BI delivery, turning complex data into reliable, analytics-ready systems.
 
 </div>
 
@@ -23,7 +24,7 @@
 - 🔧 &nbsp;**Data Engineer & Analytics Practitioner** — cloud-native pipelines & Lakehouse architecture
 - 🏢 &nbsp;**3.5+ years** of enterprise experience at Accenture (SAP IS-U & SAP CRM)
 - 🎓 &nbsp;**PG Diploma** in Business Insights & Analytics — Humber College, Canada
-- 🏛️ &nbsp;**Co-op Data Analyst** — Ontario Public Service 
+- 🏛️ &nbsp;**Co-op Data Analyst** — Ontario Public Service | Solicitor General 
 - 📺 &nbsp;YouTube &nbsp;[youtube.com/@DataToCrunch](https://www.youtube.com/@DataToCrunch)
 - 💬 &nbsp;LinkedIn &nbsp;[linkedin.com/in/rutujabkadam](https://www.linkedin.com/in/rutujabkadam)
 - 📍 &nbsp;Toronto, Ontario, Canada
@@ -34,7 +35,7 @@
 
 ## 🧠 About Me
 
-I'm a **Data Engineer and Analytics Practitioner / Educator** based in Toronto, building production-grade cloud data pipelines and educating the data community of 8K+ members through my YouTube channel **[DataToCrunch](https://www.youtube.com/@DataToCrunch)**.
+I'm a **Data Engineer and Analytics Practitioner / Educator** based in Toronto, building production-grade cloud data pipelines and educating the data community of 10K+ members through my YouTube channel **[DataToCrunch](https://www.youtube.com/@DataToCrunch)**.
 
 My foundation comes from **3.5+ years at Accenture**, where I worked as an Application Development Associate & Application Development Analyst on enterprise-scale **SAP IS-U and SAP CRM** projects. I contributed across the full SDLC — from system analysis, enhancement development, and debugging, to testing, deployment support, and production incident resolution. Collaborating with global stakeholders on high-priority deliverables gave me a strong understanding of how data flows and behaves at enterprise scale.
 
@@ -42,12 +43,13 @@ Afterwards I completed my 2 years **postgraduate program in Business Insights & 
 
 Today, I independently design and implement **end-to-end data pipelines** using the modern cloud data stack:
 
-- **Azure** — Azure Data Factory (parameterized, event-driven & incremental pipelines), Azure SQL Database, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure DevOps, Azure Logic Apps, Azure Key Vault
-- **Databricks** — PySpark, Spark SQL, Delta Live Tables (DLT-streaming tables, materialized views), Medallion Architecture (Bronze/Silver/Gold), Auto Loader, Lakeflow Connect, SCD Type 1 & 2, CDC, Watermarking, Unity Catalog, Lakehouse Federation, Jobs & orchestration
-- **Snowflake** — Snowpipe,SnowSQL,Snowsight UI & Dashboard, COPY INTO, Streams & Tables, semi-structured data (JSON, XML), star/snowflake schemas, fact/dimension tables, clustering keys, Time Travel, zero-copy cloning, SCD Type 2, CDC.
-- **Data Modeling & Governance** — Star & Snowflake Schema, Fact & Dimension tables, Unity Catalog, Lakehouse Federation, cross-platform queries (Snowflake · Azure Synapse · Azure SQL), Row-Level Security
-- **BI & Visualization** — Power BI, Tableau, Databricks SQL dashboards
-- **DevOps** — GitHub, Azure DevOps, CI/CD pipelines
+- **Azure** — Azure Data Factory (parameterized, event-driven & incremental pipelines), Azure SQL Database, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure DevOps
+- **Databricks** — PySpark, Spark SQL, Delta Live Tables (Lakeflow), Medallion Architecture, Auto Loader, Lakeflow Connect, Unity Catalog, Lakehouse Federation, SCD Type 1 & 2, CDC, Watermarking, Jobs & orchestration, Databricks SQL, SQL Warehouses, Databricks Dashboards, Genie / AI-BI dashboards, SQL Editor, Alerts, query optimization
+- **Snowflake** — Snowpipe, SnowSQL, Snowsight UI & Dashboard, Storage & Notification Integration, COPY INTO, Streams & Tasks, Stored Procedures, Dynamic Tables, Standard/Transient/Temporary Tables, structured data, semi-structured data (JSON, XML, Variant), Secure Views, Sequences, Resource Monitors, Clustering Keys, Time Travel, Zero-Copy Cloning, Data Sharing & Reader Accounts, Streamlit Apps/Dashboards, Alerts, DEV/PROD environments, star/snowflake schemas, fact/dimension tables, SCD Type 1 & 2, CDC
+- **Microsoft Fabric** — Lakehouses, Warehouses, Dataflows Gen2, Notebooks (PySpark/Spark SQL), Pipelines (Data Factory), Eventstream, Eventhouse (KQL), Real-Time Intelligence, Activator, Shortcuts, Mirroring, OneLake, Fabric Environments, Deployment Pipelines, Git Integration/CI-CD, Workspace & Capacity Management, Row/Object/Column-Level Security, Direct Lake Semantic Models, Import/DirectQuery modes, DAX Measures, Calculation Groups, Field Parameters, Star Schema Design, Aggregations, Performance Optimization (VACUUM, OPTIMIZE, partitioning), Pipeline & Spark Monitoring, Power BI Reports & Copilot
+- **Data Modeling & Governance** — Star & Snowflake Schema, Fact & Dimension tables, Unity Catalog, Secure Views, Row-Level/Object-Level/Column-Level Security, Fabric Workspace Roles & Item-Level Permissions
+- **BI & Visualization** — Power BI, Tableau, Databricks SQL dashboards, Streamlit Apps
+- **DevOps** — GitHub, Azure DevOps
 
 Every project I build is designed from scratch and **published end-to-end on my channel** to help data enthusiasts learn real-world engineering practices.
 
@@ -82,8 +84,14 @@ Every project I build is designed from scratch and **published end-to-end on my 
   <a href="https://www.snowflake.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/>
   </a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Fabric-3B82F6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Fabric" height="28"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://spark.apache.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
@@ -94,14 +102,8 @@ Every project I build is designed from scratch and **published end-to-end on my 
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tableau.svg" alt="Tableau" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/sql/ssms/" target="_blank">
+    <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SSMS" height="28"/>
   </a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -111,7 +113,7 @@ Every project I build is designed from scratch and **published end-to-end on my 
   </a>
 </p>
 
-**Core expertise:** Azure Data Factory · ADLS Gen2 · Azure Synapse Analytics · Databricks Lakeflow Connect · Delta Live Tables · Medallion Architecture · PySpark · Spark SQL · Delta Lake · Auto Loader · Unity Catalog · Lakehouse Federation · Automated Lakeflow Declarative Pipeline · SCD Type 1 & 2 · CDC · Watermarking  · Snowflake · Snowpipe · Star/Snowflake Schema · Fact & Dimension Tables · Power BI · Tableau · GitHub · Azure DevOps · CI/CD
+**Core expertise:** Microsoft Fabric (Lakehouses, Warehouses, Dataflows Gen2, Notebooks, Pipelines, Eventstream, Eventhouse/KQL, Real-Time Intelligence, Activator, Shortcuts, Mirroring, OneLake, Direct Lake, RLS/OLS/CLS, Git Integration & Deployment Pipelines) · Azure Data Factory · ADLS Gen2 · Azure Synapse Analytics · Azure Event Hub · Azure Key Vault · Databricks (PySpark, Spark SQL, Delta Live Tables/Lakeflow, Lakeflow Connect, Auto Loader, Unity Catalog, Lakehouse Federation, Watermarking, Jobs & Orchestration, Databricks SQL, SQL Warehouses, Dashboards, Genie/AI-BI, SQL Editor, Alerts, query optimization) · Snowflake (Snowpipe, SnowSQL, Snowsight, Storage & Notification Integration, COPY INTO, Streams & Tasks, Stored Procedures, Dynamic Tables, Secure Views, Sequences, Resource Monitors, Clustering Keys, Time Travel, Zero-Copy Cloning, Data Sharing & Reader Accounts, Streamlit Apps) · Medallion Architecture · Star & Snowflake Schema · Fact & Dimension Tables · SCD Type 1 & 2 · CDC · Power BI (DAX, Calculation Groups, Field Parameters) · Tableau · T-SQL · GitHub · Azure DevOps · CI/CD
 
 ---
 
@@ -127,8 +129,8 @@ Every project I build is designed from scratch and **published end-to-end on my 
 | 🎖️ Azure Databricks Data Engineer Associate(Beta) | Microsoft | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/credentials/e8f575afc93bbb19?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
 | 🎖️ Databricks Certified Data Analyst Associate | Databricks | [View](https://credentials.databricks.com/4daddc63-19e6-425f-87c2-d5d1c1c3aaf5#acc.PEkXwneQ) |
 | 🎖️ SnowPro Associate: Platform Certification | Snowflake | [View](https://achieve.snowflake.com/1aec473e-cd4f-4472-b70b-3c004000307a#acc.A0NtC7jr) |
-| 🎖️ Microsoft Certified: Fabric Data Engineer Associate | Microsoft | [Scheduled] |
-| 🎖️ Microsoft Certified: Fabric Analytics Engineer Associate | Microsoft | [Scheduled] |
+| 🎖️ Microsoft Certified: Fabric Data Engineer Associate | Microsoft | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/credentials/b10ddad022490042?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| 🎖️ Microsoft Certified: Fabric Analytics Engineer Associate | Microsoft | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/credentials/9d8f206eb90bc72b?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
 ---
 
 ## 🎓 Education
