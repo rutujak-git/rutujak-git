@@ -129,8 +129,8 @@ Every project I build is designed from scratch and **published end-to-end on my 
 | 🎖️ Azure Databricks Data Engineer Associate(Beta) | Microsoft | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/credentials/e8f575afc93bbb19?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
 | 🎖️ Databricks Certified Data Analyst Associate | Databricks | [View](https://credentials.databricks.com/4daddc63-19e6-425f-87c2-d5d1c1c3aaf5#acc.PEkXwneQ) |
 | 🎖️ SnowPro Associate: Platform Certification | Snowflake | [View](https://achieve.snowflake.com/1aec473e-cd4f-4472-b70b-3c004000307a#acc.A0NtC7jr) |
-| 🎖️ Microsoft Certified: Fabric Data Engineer Associate | Microsoft | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/credentials/b10ddad022490042?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
-| 🎖️ Microsoft Certified: Fabric Analytics Engineer Associate | Microsoft | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/credentials/9d8f206eb90bc72b?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| 🎖️ Microsoft Certified: Fabric Data Engineer Associate | Microsoft | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/credentials/9d8f206eb90bc72b?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| 🎖️ Microsoft Certified: Fabric Analytics Engineer Associate | Microsoft | [View](https://learn.microsoft.com/en-us/users/rutujabhagatsingkadam-5648/credentials/b10ddad022490042?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
 ---
 
 ## 🎓 Education
